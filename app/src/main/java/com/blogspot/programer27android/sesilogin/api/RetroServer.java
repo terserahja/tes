@@ -6,7 +6,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 /**
  * Created by gery on 11/22/17.
  */
-
+//wdwdfe
 public class RetroServer {
     private  static  final String base_url = "http://22.22.22.49/data_user/";
 
